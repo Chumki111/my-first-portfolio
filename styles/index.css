@@ -1,0 +1,28 @@
+
+ *{
+    margin: 0px;
+    padding: 0px;
+ }   
+
+
+.banner{
+    background-image: url('../images/banner/banner1.png');
+   
+    width:1500px;
+    height: 800px;;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    text-align: center;
+    padding-top: 250px;
+    text-direction:right;
+}
+.btn{
+    background: tomato;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    box-shadow: 4px;
+}
+
