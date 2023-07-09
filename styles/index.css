@@ -70,3 +70,49 @@ ul > li {
     list-style: lower-roman;
     list-style-position: inside;
 }
+.plan{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.web{
+    align-items: center;
+    padding-bottom: 100px;
+    gap:0px;
+}
+.primary{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.always{
+    background-image: url('../images/gradient3.png'),url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 220px;
+    width: 1000px;
+    margin: auto;
+   
+  
+}
+.keep{
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+    bottom: 10px;
+    padding-bottom: 20px;
+}
+.btno{
+    background: #fff;
+    color: #C2552B;
+    padding: 20px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    
+}
+.call{
+    padding: 40px;
+}
