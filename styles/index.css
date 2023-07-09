@@ -73,6 +73,8 @@ ul > li {
 .plan{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+   
     
 }
 .web{
@@ -115,4 +117,54 @@ ul > li {
 }
 .call{
     padding: 40px;
+}
+.footer{
+    display: flex;
+    height: 50vh;
+    background-color: black;
+    margin-top: 60px;
+    padding:80px;
+    justify-content: space-around;
+    align-items: center;
+}
+.future{
+    color: #fff;
+}
+.future-title{
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.span{
+    padding-bottom: 20px;
+}
+.future-para{
+    padding-bottom: 20px;
+    
+}
+.icons{
+    padding-top: 20px;
+    gap: 20px;
+}
+.subcribe{
+    color: #fff;
+   padding-top: 0px;
+}
+.email{
+    border: none;
+    width: 250px;
+    height: 30px;
+    background-color: #fff;
+    color: black;
+    padding: 10px;
+
+
+}
+.btnon{
+    background: #fff;
+    color: red;
+    padding: 20px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 20px;
 }
